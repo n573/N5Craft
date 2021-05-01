@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values":
+	[
+		"n5craft:grateful_ore",
+		"n5craft:grateful_nether_ore",
+		"n5craft:grateful_end_ore"
+	]
+}

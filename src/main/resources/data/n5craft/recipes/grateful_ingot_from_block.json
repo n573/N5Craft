@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "grateful_ingot",
+  "ingredients": [
+    {
+      "item": "n5craft:grateful_block"
+    }
+  ],
+  "result": {
+    "item": "n5craft:grateful_ingot",
+    "count": 9
+  }
+}

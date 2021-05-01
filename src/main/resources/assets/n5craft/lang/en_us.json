@@ -1,0 +1,23 @@
+{
+	"item.n5craft.grateful_ingot": "Grateful Ingot",
+	
+	"item.n5craft.grateful_axe": "Grateful Axe",
+	"item.n5craft.grateful_pickaxe": "Grateful Pickaxe",
+	"item.n5craft.grateful_hoe": "Grateful Hoe",
+	"item.n5craft.grateful_shovel": "Grateful Shovel",
+	"item.n5craft.grateful_sword": "Grateful Sword",
+	"item.n5craft.smite_hammer": "Smite Hammer",
+	"item.n5craft.crack": "Crack",
+	
+	"block.n5craft.grateful_block": "Grateful Block",
+	"block.n5craft.grateful_ore": "Grateful Ore",
+	"block.n5craft.grateful_nether_ore": "Grateful Nether Ore",
+	"block.n5craft.grateful_end_ore": "Grateful End Ore",
+	
+	"item.n5craft.grateful_helmet": "Grateful Helmet",
+	"item.n5craft.grateful_chestplate": "Grateful Chestplate",
+	"item.n5craft.grateful_leggings": "Grateful Leggings",
+	"item.n5craft.grateful_boots": "Grateful Boots",
+	
+	"itemGroup.n5craft": "N5craft"
+}

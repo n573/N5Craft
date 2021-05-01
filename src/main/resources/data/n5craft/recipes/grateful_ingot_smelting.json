@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "n5craft:grateful_ore"
+  },
+  "result": "n5craft:grateful_ingot",
+  "experience": 10.15,
+  "cookingtime": 100
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "n5craft:grateful_ingot"
+    }
+  },
+  "result": {
+    "item": "n5craft:grateful_leggings"
+  }
+}

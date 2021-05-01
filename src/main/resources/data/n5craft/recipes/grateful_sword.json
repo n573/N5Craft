@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "n5craft:grateful_ingot"
+    }
+  },
+  "result": {
+    "item": "n5craft:grateful_sword"
+  }
+}

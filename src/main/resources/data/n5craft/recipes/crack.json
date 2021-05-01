@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "n5craft:grateful_ingot"
+  },
+  "result": "n5craft:crack",
+  "experience": 20.0,
+  "cookingtime": 150
+}
